@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332561633142",
+    "project_id": "chroedifytask",
+    "storage_bucket": "chroedifytask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332561633142:android:c388e70445f8242e443457",
+        "android_client_info": {
+          "package_name": "com.example.chordify_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXa2NxRNdYXCxmjHXU-M5USWlGrr-EB8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
